@@ -1,0 +1,77 @@
+
+  RUN DATE: 04/13/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/14/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD-ONS
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  22CR 000255 IXCHAJCHAL,JULIO,ROBE TALBOT,S       SHP APT.:RADFORD,BRANDON   3
+                    BOND:          $1 SEC
+        (T)DWLR NOT IMPAIRED REV            PLEA:                VER:       6906258
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+     2  22CR 050659 IXCHAJCHAL,JULIO,ROBE TALBOT,S       SHP APT.:RADFORD,BRANDON   3
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (T)DRIVING WHILE IMPAIRED           PLEA:                VER:       Y0154082
+                                        JUDGMENT:
+
+
+
+        (T)CIVIL REVOCATION DR LIC (30)     PLEA:                VER:       Y0154082
+                                        JUDGMENT:
+
+
+
+     3  23CR 274750 WIKE,JORDAN,TYLER     WATSON, WILLIA SFF
+              AKA: WYKE, JORDAN TYLER  , WYKE,JORDAN,TYLER
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $20,000 SEC
+        (F)BREAK/ENTER PLACE OF WORSHIP     PLEA:                VER:
+        CLS:G  P:   L:                  JUDGMENT:                           ADA: HCH
+
+
+
+        (F)LARCENY AFTER BREAK/ENTER        PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+1 RUN DATE: 04/13/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/14/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD-ONS
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 IXCHAJCHAL,JULIO,ROBER DWLR NOT IMPAIRED REV          TALBOT,S    22CR 000255
+  **   2 IXCHAJCHAL,JULIO,ROBER DRIVING WHILE IMPAIRED         TALBOT,S    22CR 050659
+                                CIVIL REVOCATION DR LIC (30)   TALBOT,S    22CR 050659
+  **   3 WIKE,JORDAN,TYLER      BREAK/ENTER PLACE OF WORSHIP   WATSON, WIL 23CR 274750
+                                LARCENY AFTER BREAK/ENTER      WATSON, WIL 23CR 274750
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

@@ -1,0 +1,181 @@
+
+  RUN DATE: 04/10/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/11/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  23CR 275258 BENFIELD,TERRY,LEE    LAWS,EVAN,A    BPD APT.:BAKER,GARLAND,B   1
+                    BOND:      $3,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: HCH
+
+
+
+
+
+
+     2  23CR 701117 BENFIELD,TERRY,LEE    LAWS,EVAN,A    BPD APT.:BAKER,GARLAND,B   1
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:       3J76841
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+        (I)FAIL STOP STOPSIGN/FLSH RED LT   PLEA:                VER:       3J76841
+                                        JUDGMENT:
+
+
+
+
+
+
+        (I)LICENSE PLATE FRAME/COVER VIOL   PLEA:                VER:       3J76841
+                                        JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 04/11/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     3  23CR 262220 CROWLEY,KAREN,ELIZABE CALVERT,NATHAN SFF APT.:BAKER,GARLAND,B   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $3,000 SEC
+        (F)LARC MERCHANT PROD CODE FRAUD    PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:                           ADA: LJM
+
+
+
+
+
+
+     4  23CR 272476 CROWLEY,KAREN,ELIZABE RICHARDSON,MAT SFF APT.:BAKER,GARLAND,B   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:     $25,000 SEC
+        (F)EXTRADITION/FUGITIVE OTH STATE   PLEA:                VER:
+                                        JUDGMENT:                           ADA: LJM
+
+
+
+
+
+
+     5  23CR 273366 KIRKPATRICK,SHANNON,E MILLER,CASEY   SFF ATTY:WAIVED            1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $7,500 SEC
+        (F)FELONY POSSESSION SCH II CS      PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: LJM
+
+
+
+
+
+
+        (M)POSSESS DRUG PARAPHERNALIA       PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+     6  23CR 269035 NEVILLE,KEVIN,DOUGLAS STEVENS,BRENDA     APT.:HITE,TYLER,PAYT   2
+              AKA: NEVILLE,KEVIN       , NEVILLE, KEVIN
+                    BOND:        $750 SEC
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    3
+
+          COURT DATE: 04/11/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     7  23CR 271877 NORMAN,NATHAN,GARY    BROWN,CODY     SFF APT.:HITE,TYLER,PAYT   1
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:      DOM VL: Y   JUDGMENT:
+
+
+
+
+
+
+     8  23CR 277087 STAUFER,THOMAS,JOSEPH STOUT,JOSEPH   BPD APT.:BAKER,GARLAND,B   1
+              AKA: STAUFER,THOMAS,JOSEP, STAUFER,THOMAS,JOSEP
+                    BOND:          $1 SEC
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+     9  23CR 277128 STAUFER,THOMAS,JOSEPH STOUT,JOSEPH   BPD APT.:BAKER,GARLAND,B   1
+              AKA: STAUFER,THOMAS,JOSEP, STAUFER,THOMAS,JOSEP
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $3,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:                           ADA: HCH
+
+
+
+
+
+
+    10  23CR 277830 TORRES,ARMANDO,SUSANO WOODY,DARRICK  SFF APT.:MORGAN,BRIAN,SC   1
+                    BOND:      $4,000 SEC
+        (F)POSSESS METHAMPHETAMINE          PLEA:                VER:
+        CLS:I  P:   L:                  JUDGMENT:
+1 RUN DATE: 04/10/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/11/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 BENFIELD,TERRY,LEE     POSSESS METHAMPHETAMINE        LAWS,EVAN,A 23CR 275258
+       2 BENFIELD,TERRY,LEE     POSSESS DRUG PARAPHERNALIA     LAWS,EVAN,A 23CR 701117
+                                FAIL STOP STOPSIGN/FLSH RED LT LAWS,EVAN,A 23CR 701117
+                                LICENSE PLATE FRAME/COVER VIOL LAWS,EVAN,A 23CR 701117
+  **   3 CROWLEY,KAREN,ELIZABET LARC MERCHANT PROD CODE FRAUD  CALVERT,NAT 23CR 262220
+  **   4 CROWLEY,KAREN,ELIZABET EXTRADITION/FUGITIVE OTH STATE RICHARDSON, 23CR 272476
+  **   5 KIRKPATRICK,SHANNON,ED FELONY POSSESSION SCH II CS    MILLER,CASE 23CR 273366
+                                POSSESS DRUG PARAPHERNALIA     MILLER,CASE 23CR 273366
+       6 NEVILLE,KEVIN,DOUGLAS  SIMPLE ASSAULT                 STEVENS,BRE 23CR 269035
+  **   7 NORMAN,NATHAN,GARY     ASSAULT ON A FEMALE            BROWN,CODY  23CR 271877
+       8 STAUFER,THOMAS,JOSEPH, SECOND DEGREE TRESPASS         STOUT,JOSEP 23CR 277087
+  **   9 STAUFER,THOMAS,JOSEPH, POSSESS METHAMPHETAMINE        STOUT,JOSEP 23CR 277128
+      10 TORRES,ARMANDO,SUSANO  POSSESS METHAMPHETAMINE        WOODY,DARRI 23CR 277830
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

@@ -1,0 +1,159 @@
+
+  RUN DATE: 04/14/23                                                        PAGE:  1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          SUPERIOR COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/23        TIME: 10:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME                                               CONT
+  *************************************************************************************
+
+  0001 23 CRS 000114  GRIFFITH,ASHLEY,NICOLE
+                     ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                  BOND:   $100,000 SEC
+      (F)FIRST DEG SEX EXPLOIT MINOR      WATSON,W           SFF
+      CLS:C  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)FIRST DEG SEX EXPLOIT MINOR
+      CLS:C  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)FIRST DEG SEX EXPLOIT MINOR
+      CLS:C  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)FIRST DEG SEX EXPLOIT MINOR
+      CLS:C  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)SECOND DEG SEX EXPLOIT MINOR
+      CLS:E  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)THIRD DEG SEX EXPLOIT MINOR
+      CLS:H  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)THIRD DEG SEX EXPLOIT MINOR
+      CLS:H  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+  ADD ON                                 PAGE:    1         04/17/23 10:00 AM 9999
+1                    SUPERIOR COURT CALENDAR          PAGE:    2
+
+          COURT DATE: 04/17/23        TIME: 10:00 AM        COURTROOM NUMBER: 9999
+
+  NO.  FILE NUMBER DEFENDANT NAME                                               CONT
+  *************************************************************************************
+
+       23 CRS 000114     (CONTINUED)
+                     ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+
+
+
+      (F)THIRD DEG SEX EXPLOIT MINOR
+      CLS:H  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)THIRD DEG SEX EXPLOIT MINOR
+      CLS:H  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+      (F)THIRD DEG SEX EXPLOIT MINOR
+      CLS:H  P:   L:     PLEA:      VER:                  JUDGMENT:
+
+
+
+
+  ADD ON                                 PAGE:    2         04/17/23 10:00 AM 9999
+1 RUN DATE: 04/14/23                                                        PAGE:  1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          SUPERIOR COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/23        TIME: 10:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+ **    1 GRIFFITH,ASHLEY,NICOLE FIRST DEG SEX EXPLOIT MINOR    WATSON,W    23CRS000114
+                                FIRST DEG SEX EXPLOIT MINOR
+                                FIRST DEG SEX EXPLOIT MINOR
+                                FIRST DEG SEX EXPLOIT MINOR
+                                SECOND DEG SEX EXPLOIT MINOR
+                                THIRD DEG SEX EXPLOIT MINOR
+                                THIRD DEG SEX EXPLOIT MINOR
+                                THIRD DEG SEX EXPLOIT MINOR
+                                THIRD DEG SEX EXPLOIT MINOR
+                                THIRD DEG SEX EXPLOIT MINOR
+
+
+
+
+  ADD ON                                 PAGE:    1         04/17/23 10:00 AM 9999
+  *  MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED
+1 RUN DATE: 04/14/23                                                        PAGE:  1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          SUPERIOR COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/23        TIME: 10:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME                                               CONT
+  *************************************************************************************
+
+  RUN DATE: 04/14/23                                                        PAGE:  1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          SUPERIOR COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/17/23        TIME: 10:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************

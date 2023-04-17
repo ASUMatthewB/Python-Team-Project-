@@ -1,0 +1,59 @@
+
+  RUN DATE: 04/12/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/13/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  23CR 279672 ALLISON,THOMAS,DENT   LOWRANCE,CALEB SFF APT.:RADFORD,BRANDON   1
+                    BOND:        $300 SEC
+        (M)SECOND DEGREE TRESPASS           PLEA:                VER:
+        CLS:3  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+     2  23CR 261693 COX,RICHARD DARIN     BRADLEY,CHARLI SFF APT.:MORGAN,BRIAN,SC   1
+              AKA: COX,RICHARD,DARIN   , COX,RICHARD,DARIN
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:        $500 SEC
+        (M)INJURY TO REAL PROPERTY          PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+1 RUN DATE: 04/12/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/13/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ALLISON,THOMAS,DENT    SECOND DEGREE TRESPASS         LOWRANCE,CA 23CR 279672
+  **   2 COX,RICHARD DARIN      INJURY TO REAL PROPERTY        BRADLEY,CHA 23CR 261693
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

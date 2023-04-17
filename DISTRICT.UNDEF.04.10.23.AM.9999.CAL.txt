@@ -1,0 +1,76 @@
+
+  RUN DATE: 04/06/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/10/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  22CR 701044 BERRY,MICHELLE,LYNN   TARALLO,CALLI, BPD                        2
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $6,000 SEC
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:       J804306
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+        (M)SIMPLE POSSESS SCH IV CS (M)     PLEA:                VER:       J804306
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+
+
+     2  21CR 700320 FRAZIER,TODD,ALAN     SHUE,C,M       BPD ATTY:ELLER,ERIC        6
+        (M)REQUEST FOR RELIEF FROM FINES/   PLEA:                VER:       544072G
+        CLS:   P:   L:                  JUDGMENT:                           ADA: HCH
+
+
+
+
+
+
+     3  21CR 700732 FRAZIER,TODD,ALAN     LAWS,E         BPD ATTY:ELLER,ERIC        3
+        (M)REQUEST FOR RELIEF FROM FINES/   PLEA:                VER:       795732G
+        CLS:   P:   L:                  JUDGMENT:                           ADA: KSR
+1 RUN DATE: 04/06/23                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: BOONE, N.C.          DISTRICT COURT DIVISION       COUNTY OF WATAUGA
+
+          COURT DATE: 04/10/23        TIME: 09:00 AM        COURTROOM NUMBER: 9999
+
+                  ADD ON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+  **   1 BERRY,MICHELLE,LYNN    SIMPLE POSSESS SCH IV CS (M)   TARALLO,CAL 22CR 701044
+                                SIMPLE POSSESS SCH IV CS (M)   TARALLO,CAL 22CR 701044
+       2 FRAZIER,TODD,ALAN      REQUEST FOR RELIEF FROM FINES/ SHUE,C,M    21CR 700320
+       3 FRAZIER,TODD,ALAN      REQUEST FOR RELIEF FROM FINES/ LAWS,E      21CR 700732
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED
