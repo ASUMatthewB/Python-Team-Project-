@@ -39,36 +39,51 @@ def is_fingerprinted(line):
     return "FINGERPRINTED" in line
 
 def process_fingerprinted(line, infile):
+    data = {}
     while True:
-        line = infile.readline()
         if line == "" or is_fingerprinted:
             break
 
+def is_offense(line):
+    return line[8:9] == "("
+
+def process_offense(line, infile):
+    data = {}
+    while True:
+        if line == "":
+            break
+        else:
+            data['charge'] = line[8:37].strip()
+            data['plea'] = line[49:65].strip()
+            data['ver'] = line[69:83].strip()
+        return data
 
 def is_defendent(line):
-    return line[5:6].isnumeric()
+    return line[8:12] == "23CR"
+
+def is_aka(line):
+    return "AKA" in line
 
 def process_defendent(line, infile):
     data = {}
     while True:
-        line = infile.readline()
-        if line == "" or is_defendent:
+        if line == "":
             break
         else:
             data['Number'] = line[5:6]
-            print(data)
             data['Case Number'] = line[8:19]
             data['Defendent'] = line[20:41].strip()
             data['Complaintant'] = line[42:56].strip()
             data['Attorney'] = line[57:83].strip()
             data['Cont'] = line[84:].strip()
-    return data
+        return data
 
 
 def main():
     rpt_data = {}
     defend_data = {}
     offense_data = {}
+
     
     # filename = input("Enter file name to process:")
     filename = "DISTRICT.DISTRICT_COURT_.04.11.23.AM.9999.CAL.txt"
@@ -76,7 +91,7 @@ def main():
 
     while True:
         line = infile.readline()
-        if line == "" or is_summary_header(line):
+        if line == "" or is_summary_header(line) or is_aka(line):
             break
         elif line == "\n":
             continue
@@ -88,10 +103,12 @@ def main():
             finger_data = process_fingerprinted(line, infile)
         elif is_defendent(line):
             defend_data = process_defendent(line, infile)
+            # print(defend_data)
+        elif is_offense(line):
+            offense_data = process_offense(line, infile)
+            # print(offense_data)
         else:
             print(line, end='')
-    print(defend_data)
-
     
 
 if __name__ == '__main__':
