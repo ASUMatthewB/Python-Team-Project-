@@ -4,7 +4,6 @@
 END_HEADER = "*" *15
 
 
-
 def is_summary_header(line):
     return line[0] == "1" and "RUN DATE:" in line
 
@@ -17,8 +16,6 @@ def process_page_header(line, infile):
         line = infile.readline()
         if line == "" or END_HEADER in line:
             break
-
-
 
 
 def is_report_header(line):
@@ -37,6 +34,7 @@ def process_report_header(line, infile):
             data['CourtRoom'] = line[78:].strip()
     return data
 
+
 def is_fingerprinted(line):
     return "FINGERPRINTED" in line
 
@@ -46,11 +44,26 @@ def process_fingerprinted(line, infile):
         if line == "" or is_fingerprinted:
             break
 
+
 def is_defendent(line):
-    return line[20:21].isnumeric()
+    return line[5:6].isnumeric()
 
 def process_defendent(line, infile):
-    
+    data = {}
+    while True:
+        line = infile.readline()
+        if line == "" or is_defendent:
+            break
+        else:
+            data['Number'] = line[5:6]
+            print(data)
+            data['Case Number'] = line[8:19]
+            data['Defendent'] = line[20:41].strip()
+            data['Complaintant'] = line[42:56].strip()
+            data['Attorney'] = line[57:83].strip()
+            data['Cont'] = line[84:].strip()
+    return data
+
 
 def main():
     rpt_data = {}
@@ -73,8 +86,13 @@ def main():
             rpt_data = process_report_header(line, infile)
         elif is_fingerprinted(line):
             finger_data = process_fingerprinted(line, infile)
+        elif is_defendent(line):
+            defend_data = process_defendent(line, infile)
         else:
             print(line, end='')
+    print(defend_data)
+
+    
 
 if __name__ == '__main__':
     main()
